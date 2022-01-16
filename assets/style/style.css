@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgb(238, 182, 238);
+}
+
+h1{
+    color: white;
+    background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
+    padding-top: 1%;
+    
+}
+h3{
+    padding: 1%;
+    background: transparent;
+}
+
+
+h4 {
+    background: transparent;
+}
